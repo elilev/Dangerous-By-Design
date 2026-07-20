@@ -1,7 +1,7 @@
 import { ComposableMap, Geographies, Geography, Marker } from 'react-simple-maps';
 import type { PlaceRow } from '../data/types';
 
-const GEO_URL = '/data/us-states-10m.json';
+const GEO_URL = `${import.meta.env.BASE_URL}data/us-states-10m.json`;
 
 interface UsDotMapProps {
   places: PlaceRow[];
