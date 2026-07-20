@@ -1,0 +1,1012 @@
+[
+  {
+    "rank": "1",
+    "name": "Memphis, TN-MS-AR",
+    "fatality_rate_per_100k": 5.5,
+    "deaths_2020_2024": 369,
+    "deaths_2015_2019": 221,
+    "trend": 2.2,
+    "rank_numeric": 1,
+    "tied": false
+  },
+  {
+    "rank": "2",
+    "name": "Albuquerque, NM",
+    "fatality_rate_per_100k": 5.32,
+    "deaths_2020_2024": 245,
+    "deaths_2015_2019": 176,
+    "trend": 1.46,
+    "rank_numeric": 2,
+    "tied": false
+  },
+  {
+    "rank": "3",
+    "name": "Bakersfield-Delano, CA",
+    "fatality_rate_per_100k": 5.01,
+    "deaths_2020_2024": 229,
+    "deaths_2015_2019": 153,
+    "trend": 1.56,
+    "rank_numeric": 3,
+    "tied": false
+  },
+  {
+    "rank": "4",
+    "name": "Tucson, AZ",
+    "fatality_rate_per_100k": 4.43,
+    "deaths_2020_2024": 235,
+    "deaths_2015_2019": 142,
+    "trend": 1.67,
+    "rank_numeric": 4,
+    "tied": false
+  },
+  {
+    "rank": "5",
+    "name": "Baton Rouge, LA",
+    "fatality_rate_per_100k": 4.18,
+    "deaths_2020_2024": 183,
+    "deaths_2015_2019": 115,
+    "trend": 1.49,
+    "rank_numeric": 5,
+    "tied": false
+  },
+  {
+    "rank": "6",
+    "name": "Little Rock-North Little Rock-Conway, AR",
+    "fatality_rate_per_100k": 4.17,
+    "deaths_2020_2024": 158,
+    "deaths_2015_2019": 79,
+    "trend": 2.03,
+    "rank_numeric": 6,
+    "tied": false
+  },
+  {
+    "rank": "7",
+    "name": "Fresno, CA",
+    "fatality_rate_per_100k": 4.06,
+    "deaths_2020_2024": 239,
+    "deaths_2015_2019": 137,
+    "trend": 1.28,
+    "rank_numeric": 7,
+    "tied": false
+  },
+  {
+    "rank": "8",
+    "name": "Tampa-St. Petersburg-Clearwater, FL",
+    "fatality_rate_per_100k": 3.74,
+    "deaths_2020_2024": 618,
+    "deaths_2015_2019": 557,
+    "trend": 0.14,
+    "rank_numeric": 8,
+    "tied": false
+  },
+  {
+    "rank": "T-9",
+    "name": "New Orleans-Metairie, LA",
+    "fatality_rate_per_100k": 3.73,
+    "deaths_2020_2024": 183,
+    "deaths_2015_2019": 145,
+    "trend": 1.44,
+    "rank_numeric": 9,
+    "tied": true
+  },
+  {
+    "rank": "T-9",
+    "name": "Riverside-San Bernardino-Ontario, CA",
+    "fatality_rate_per_100k": 3.73,
+    "deaths_2020_2024": 871,
+    "deaths_2015_2019": 680,
+    "trend": 0.75,
+    "rank_numeric": 9,
+    "tied": true
+  },
+  {
+    "rank": "11",
+    "name": "Palm Bay-Melbourne-Titusville, FL",
+    "fatality_rate_per_100k": 3.7,
+    "deaths_2020_2024": 117,
+    "deaths_2015_2019": 98,
+    "trend": 0.35,
+    "rank_numeric": 11,
+    "tied": false
+  },
+  {
+    "rank": "12",
+    "name": "Charleston-North Charleston, SC",
+    "fatality_rate_per_100k": 3.69,
+    "deaths_2020_2024": 154,
+    "deaths_2015_2019": 125,
+    "trend": 0.46,
+    "rank_numeric": 12,
+    "tied": false
+  },
+  {
+    "rank": "13",
+    "name": "Jackson, MS",
+    "fatality_rate_per_100k": 3.66,
+    "deaths_2020_2024": 112,
+    "deaths_2015_2019": 74,
+    "trend": 1.18,
+    "rank_numeric": 13,
+    "tied": false
+  },
+  {
+    "rank": "14",
+    "name": "Deltona-Daytona Beach-Ormond Beach, FL",
+    "fatality_rate_per_100k": 3.6,
+    "deaths_2020_2024": 127,
+    "deaths_2015_2019": 126,
+    "trend": -0.3,
+    "rank_numeric": 14,
+    "tied": false
+  },
+  {
+    "rank": "15",
+    "name": "North Port-Bradenton-Sarasota, FL",
+    "fatality_rate_per_100k": 3.44,
+    "deaths_2020_2024": 153,
+    "deaths_2015_2019": 119,
+    "trend": 0.48,
+    "rank_numeric": 15,
+    "tied": false
+  },
+  {
+    "rank": "16",
+    "name": "Jacksonville, FL",
+    "fatality_rate_per_100k": 3.41,
+    "deaths_2020_2024": 287,
+    "deaths_2015_2019": 262,
+    "trend": -0.08,
+    "rank_numeric": 16,
+    "tied": false
+  },
+  {
+    "rank": "17",
+    "name": "Miami-Fort Lauderdale-West Palm Beach, FL",
+    "fatality_rate_per_100k": 3.4,
+    "deaths_2020_2024": 1062,
+    "deaths_2015_2019": 945,
+    "trend": 0.3,
+    "rank_numeric": 17,
+    "tied": false
+  },
+  {
+    "rank": "18",
+    "name": "Columbia, SC",
+    "fatality_rate_per_100k": 3.32,
+    "deaths_2020_2024": 141,
+    "deaths_2015_2019": 119,
+    "trend": 0.43,
+    "rank_numeric": 18,
+    "tied": false
+  },
+  {
+    "rank": "T-19",
+    "name": "Sacramento-Roseville-Folsom, CA",
+    "fatality_rate_per_100k": 3.21,
+    "deaths_2020_2024": 389,
+    "deaths_2015_2019": 284,
+    "trend": 0.76,
+    "rank_numeric": 19,
+    "tied": true
+  },
+  {
+    "rank": "T-19",
+    "name": "Stockton-Lodi, CA",
+    "fatality_rate_per_100k": 3.21,
+    "deaths_2020_2024": 128,
+    "deaths_2015_2019": 128,
+    "trend": -0.24,
+    "rank_numeric": 19,
+    "tied": true
+  },
+  {
+    "rank": "21",
+    "name": "Lakeland-Winter Haven, FL",
+    "fatality_rate_per_100k": 3.14,
+    "deaths_2020_2024": 124,
+    "deaths_2015_2019": 89,
+    "trend": 0.55,
+    "rank_numeric": 21,
+    "tied": false
+  },
+  {
+    "rank": "22",
+    "name": "Phoenix-Mesa-Chandler, AZ",
+    "fatality_rate_per_100k": 3.11,
+    "deaths_2020_2024": 782,
+    "deaths_2015_2019": 660,
+    "trend": 0.34,
+    "rank_numeric": 22,
+    "tied": false
+  },
+  {
+    "rank": "23",
+    "name": "Las Vegas-Henderson-North Las Vegas, NV",
+    "fatality_rate_per_100k": 3.1,
+    "deaths_2020_2024": 361,
+    "deaths_2015_2019": 287,
+    "trend": 0.47,
+    "rank_numeric": 23,
+    "tied": false
+  },
+  {
+    "rank": "24",
+    "name": "San Antonio-New Braunfels, TX",
+    "fatality_rate_per_100k": 3.06,
+    "deaths_2020_2024": 408,
+    "deaths_2015_2019": 328,
+    "trend": 0.4,
+    "rank_numeric": 24,
+    "tied": false
+  },
+  {
+    "rank": "25",
+    "name": "Orlando-Kissimmee-Sanford, FL",
+    "fatality_rate_per_100k": 3.0,
+    "deaths_2020_2024": 419,
+    "deaths_2015_2019": 433,
+    "trend": -0.45,
+    "rank_numeric": 25,
+    "tied": false
+  },
+  {
+    "rank": "26",
+    "name": "Greenville-Anderson-Greer, SC",
+    "fatality_rate_per_100k": 2.97,
+    "deaths_2020_2024": 143,
+    "deaths_2015_2019": 124,
+    "trend": 0.2,
+    "rank_numeric": 26,
+    "tied": false
+  },
+  {
+    "rank": "27",
+    "name": "Cape Coral-Fort Myers, FL",
+    "fatality_rate_per_100k": 2.96,
+    "deaths_2020_2024": 121,
+    "deaths_2015_2019": 97,
+    "trend": 0.33,
+    "rank_numeric": 27,
+    "tied": false
+  },
+  {
+    "rank": "28",
+    "name": "Greensboro-High Point, NC",
+    "fatality_rate_per_100k": 2.95,
+    "deaths_2020_2024": 116,
+    "deaths_2015_2019": 80,
+    "trend": 0.85,
+    "rank_numeric": 28,
+    "tied": false
+  },
+  {
+    "rank": "29",
+    "name": "Louisville/Jefferson County, KY-IN",
+    "fatality_rate_per_100k": 2.9,
+    "deaths_2020_2024": 199,
+    "deaths_2015_2019": 145,
+    "trend": 0.59,
+    "rank_numeric": 29,
+    "tied": false
+  },
+  {
+    "rank": "T-30",
+    "name": "Los Angeles-Long Beach-Anaheim, CA",
+    "fatality_rate_per_100k": 2.83,
+    "deaths_2020_2024": 1834,
+    "deaths_2015_2019": 1583,
+    "trend": 0.44,
+    "rank_numeric": 30,
+    "tied": true
+  },
+  {
+    "rank": "T-30",
+    "name": "San Diego-Chula Vista-Carlsbad, CA",
+    "fatality_rate_per_100k": 2.83,
+    "deaths_2020_2024": 465,
+    "deaths_2015_2019": 402,
+    "trend": 0.41,
+    "rank_numeric": 30,
+    "tied": true
+  },
+  {
+    "rank": "32",
+    "name": "Atlanta-Sandy Springs-Roswell, GA",
+    "fatality_rate_per_100k": 2.8,
+    "deaths_2020_2024": 875,
+    "deaths_2015_2019": 716,
+    "trend": 0.36,
+    "rank_numeric": 32,
+    "tied": false
+  },
+  {
+    "rank": "33",
+    "name": "Augusta-Richmond County, GA-SC",
+    "fatality_rate_per_100k": 2.72,
+    "deaths_2020_2024": 85,
+    "deaths_2015_2019": 56,
+    "trend": 0.85,
+    "rank_numeric": 33,
+    "tied": false
+  },
+  {
+    "rank": "34",
+    "name": "Houston-Pasadena-The Woodlands, TX",
+    "fatality_rate_per_100k": 2.65,
+    "deaths_2020_2024": 986,
+    "deaths_2015_2019": 752,
+    "trend": 0.47,
+    "rank_numeric": 34,
+    "tied": false
+  },
+  {
+    "rank": "T-35",
+    "name": "Austin-Round Rock-San Marcos, TX",
+    "fatality_rate_per_100k": 2.59,
+    "deaths_2020_2024": 314,
+    "deaths_2015_2019": 231,
+    "trend": 0.41,
+    "rank_numeric": 35,
+    "tied": true
+  },
+  {
+    "rank": "T-35",
+    "name": "New Haven, CT",
+    "fatality_rate_per_100k": 2.59,
+    "deaths_2020_2024": 74,
+    "deaths_2015_2019": 82,
+    "trend": 0.68,
+    "rank_numeric": 35,
+    "tied": true
+  },
+  {
+    "rank": "37",
+    "name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+    "fatality_rate_per_100k": 2.48,
+    "deaths_2020_2024": 258,
+    "deaths_2015_2019": 168,
+    "trend": 0.69,
+    "rank_numeric": 37,
+    "tied": false
+  },
+  {
+    "rank": "T-38",
+    "name": "Oklahoma City, OK",
+    "fatality_rate_per_100k": 2.47,
+    "deaths_2020_2024": 181,
+    "deaths_2015_2019": 144,
+    "trend": 0.39,
+    "rank_numeric": 38,
+    "tied": true
+  },
+  {
+    "rank": "T-38",
+    "name": "St. Louis, MO-IL",
+    "fatality_rate_per_100k": 2.47,
+    "deaths_2020_2024": 347,
+    "deaths_2015_2019": 250,
+    "trend": 0.69,
+    "rank_numeric": 38,
+    "tied": true
+  },
+  {
+    "rank": "40",
+    "name": "Tulsa, OK",
+    "fatality_rate_per_100k": 2.39,
+    "deaths_2020_2024": 124,
+    "deaths_2015_2019": 104,
+    "trend": 0.29,
+    "rank_numeric": 40,
+    "tied": false
+  },
+  {
+    "rank": "41",
+    "name": "Baltimore-Columbia-Towson, MD",
+    "fatality_rate_per_100k": 2.37,
+    "deaths_2020_2024": 338,
+    "deaths_2015_2019": 286,
+    "trend": 0.32,
+    "rank_numeric": 41,
+    "tied": false
+  },
+  {
+    "rank": "42",
+    "name": "El Paso, TX",
+    "fatality_rate_per_100k": 2.33,
+    "deaths_2020_2024": 102,
+    "deaths_2015_2019": 124,
+    "trend": -0.62,
+    "rank_numeric": 42,
+    "tied": false
+  },
+  {
+    "rank": "43",
+    "name": "Spokane-Spokane Valley, WA",
+    "fatality_rate_per_100k": 2.31,
+    "deaths_2020_2024": 69,
+    "deaths_2015_2019": 35,
+    "trend": 1.04,
+    "rank_numeric": 43,
+    "tied": false
+  },
+  {
+    "rank": "44",
+    "name": "Dallas-Fort Worth-Arlington, TX",
+    "fatality_rate_per_100k": 2.27,
+    "deaths_2020_2024": 907,
+    "deaths_2015_2019": 718,
+    "trend": 0.31,
+    "rank_numeric": 44,
+    "tied": false
+  },
+  {
+    "rank": "45",
+    "name": "Birmingham, AL",
+    "fatality_rate_per_100k": 2.21,
+    "deaths_2020_2024": 131,
+    "deaths_2015_2019": 115,
+    "trend": 0.09,
+    "rank_numeric": 45,
+    "tied": false
+  },
+  {
+    "rank": "46",
+    "name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+    "fatality_rate_per_100k": 2.18,
+    "deaths_2020_2024": 683,
+    "deaths_2015_2019": 593,
+    "trend": 0.23,
+    "rank_numeric": 46,
+    "tied": false
+  },
+  {
+    "rank": "47",
+    "name": "Indianapolis-Carmel-Greenwood, IN",
+    "fatality_rate_per_100k": 2.17,
+    "deaths_2020_2024": 231,
+    "deaths_2015_2019": 170,
+    "trend": 0.49,
+    "rank_numeric": 47,
+    "tied": false
+  },
+  {
+    "rank": "48",
+    "name": "Portland-Vancouver-Hillsboro, OR-WA",
+    "fatality_rate_per_100k": 2.15,
+    "deaths_2020_2024": 271,
+    "deaths_2015_2019": 209,
+    "trend": 0.44,
+    "rank_numeric": 48,
+    "tied": false
+  },
+  {
+    "rank": "49",
+    "name": "Chattanooga, TN-GA",
+    "fatality_rate_per_100k": 2.08,
+    "deaths_2020_2024": 60,
+    "deaths_2015_2019": 44,
+    "trend": 0.5,
+    "rank_numeric": 49,
+    "tied": false
+  },
+  {
+    "rank": "50",
+    "name": "Charlotte-Concord-Gastonia, NC-SC",
+    "fatality_rate_per_100k": 2.07,
+    "deaths_2020_2024": 287,
+    "deaths_2015_2019": 241,
+    "trend": 0.18,
+    "rank_numeric": 50,
+    "tied": false
+  },
+  {
+    "rank": "T-51",
+    "name": "Denver-Aurora-Centennial, CO",
+    "fatality_rate_per_100k": 2.06,
+    "deaths_2020_2024": 310,
+    "deaths_2015_2019": 233,
+    "trend": 0.45,
+    "rank_numeric": 51,
+    "tied": true
+  },
+  {
+    "rank": "T-51",
+    "name": "Richmond, VA",
+    "fatality_rate_per_100k": 2.06,
+    "deaths_2020_2024": 138,
+    "deaths_2015_2019": 124,
+    "trend": 0.11,
+    "rank_numeric": 51,
+    "tied": true
+  },
+  {
+    "rank": "53",
+    "name": "Wichita, KS",
+    "fatality_rate_per_100k": 1.99,
+    "deaths_2020_2024": 65,
+    "deaths_2015_2019": 39,
+    "trend": 0.77,
+    "rank_numeric": 53,
+    "tied": false
+  },
+  {
+    "rank": "54",
+    "name": "Detroit-Warren-Dearborn, MI",
+    "fatality_rate_per_100k": 1.95,
+    "deaths_2020_2024": 426,
+    "deaths_2015_2019": 411,
+    "trend": 0.05,
+    "rank_numeric": 54,
+    "tied": false
+  },
+  {
+    "rank": "55",
+    "name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "fatality_rate_per_100k": 1.94,
+    "deaths_2020_2024": 191,
+    "deaths_2015_2019": 189,
+    "trend": 0.04,
+    "rank_numeric": 55,
+    "tied": false
+  },
+  {
+    "rank": "56",
+    "name": "Seattle-Tacoma-Bellevue, WA",
+    "fatality_rate_per_100k": 1.92,
+    "deaths_2020_2024": 389,
+    "deaths_2015_2019": 252,
+    "trend": 0.62,
+    "rank_numeric": 56,
+    "tied": false
+  },
+  {
+    "rank": "T-57",
+    "name": "Scranton--Wilkes-Barre, PA",
+    "fatality_rate_per_100k": 1.86,
+    "deaths_2020_2024": 53,
+    "deaths_2015_2019": 41,
+    "trend": 0.38,
+    "rank_numeric": 57,
+    "tied": true
+  },
+  {
+    "rank": "T-57",
+    "name": "Winston-Salem, NC",
+    "fatality_rate_per_100k": 1.86,
+    "deaths_2020_2024": 64,
+    "deaths_2015_2019": 55,
+    "trend": 0.21,
+    "rank_numeric": 57,
+    "tied": true
+  },
+  {
+    "rank": "59",
+    "name": "Durham-Chapel Hill, NC",
+    "fatality_rate_per_100k": 1.83,
+    "deaths_2020_2024": 55,
+    "deaths_2015_2019": 49,
+    "trend": 0.27,
+    "rank_numeric": 59,
+    "tied": false
+  },
+  {
+    "rank": "60",
+    "name": "McAllen-Edinburg-Mission, TX",
+    "fatality_rate_per_100k": 1.82,
+    "deaths_2020_2024": 81,
+    "deaths_2015_2019": 68,
+    "trend": 0.23,
+    "rank_numeric": 60,
+    "tied": false
+  },
+  {
+    "rank": "61",
+    "name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "fatality_rate_per_100k": 1.8,
+    "deaths_2020_2024": 569,
+    "deaths_2015_2019": 426,
+    "trend": 0.43,
+    "rank_numeric": 61,
+    "tied": false
+  },
+  {
+    "rank": "62",
+    "name": "Knoxville, TN",
+    "fatality_rate_per_100k": 1.78,
+    "deaths_2020_2024": 83,
+    "deaths_2015_2019": 63,
+    "trend": 0.3,
+    "rank_numeric": 62,
+    "tied": false
+  },
+  {
+    "rank": "63",
+    "name": "Fayetteville-Springdale-Rogers, AR",
+    "fatality_rate_per_100k": 1.77,
+    "deaths_2020_2024": 51,
+    "deaths_2015_2019": 33,
+    "trend": 0.49,
+    "rank_numeric": 63,
+    "tied": false
+  },
+  {
+    "rank": "64",
+    "name": "Raleigh-Cary, NC",
+    "fatality_rate_per_100k": 1.76,
+    "deaths_2020_2024": 131,
+    "deaths_2015_2019": 103,
+    "trend": 0.21,
+    "rank_numeric": 64,
+    "tied": false
+  },
+  {
+    "rank": "65",
+    "name": "San Francisco-Oakland-Fremont, CA",
+    "fatality_rate_per_100k": 1.73,
+    "deaths_2020_2024": 401,
+    "deaths_2015_2019": 391,
+    "trend": 0.07,
+    "rank_numeric": 65,
+    "tied": false
+  },
+  {
+    "rank": "66",
+    "name": "Hartford-West Hartford-East Hartford, CT",
+    "fatality_rate_per_100k": 1.67,
+    "deaths_2020_2024": 96,
+    "deaths_2015_2019": 81,
+    "trend": 0.33,
+    "rank_numeric": 66,
+    "tied": false
+  },
+  {
+    "rank": "67",
+    "name": "Kansas City, MO-KS",
+    "fatality_rate_per_100k": 1.66,
+    "deaths_2020_2024": 184,
+    "deaths_2015_2019": 150,
+    "trend": 0.25,
+    "rank_numeric": 67,
+    "tied": false
+  },
+  {
+    "rank": "68",
+    "name": "Urban Honolulu, HI",
+    "fatality_rate_per_100k": 1.62,
+    "deaths_2020_2024": 81,
+    "deaths_2015_2019": 96,
+    "trend": -0.33,
+    "rank_numeric": 68,
+    "tied": false
+  },
+  {
+    "rank": "T-69",
+    "name": "Colorado Springs, CO",
+    "fatality_rate_per_100k": 1.61,
+    "deaths_2020_2024": 62,
+    "deaths_2015_2019": 48,
+    "trend": 0.28,
+    "rank_numeric": 69,
+    "tied": true
+  },
+  {
+    "rank": "T-69",
+    "name": "Salt Lake City-Murray, UT",
+    "fatality_rate_per_100k": 1.61,
+    "deaths_2020_2024": 103,
+    "deaths_2015_2019": 102,
+    "trend": -0.09,
+    "rank_numeric": 69,
+    "tied": true
+  },
+  {
+    "rank": "71",
+    "name": "Chicago-Naperville-Elgin, IL-IN",
+    "fatality_rate_per_100k": 1.6,
+    "deaths_2020_2024": 752,
+    "deaths_2015_2019": 638,
+    "trend": 0.26,
+    "rank_numeric": 71,
+    "tied": false
+  },
+  {
+    "rank": "72",
+    "name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
+    "fatality_rate_per_100k": 1.59,
+    "deaths_2020_2024": 142,
+    "deaths_2015_2019": 126,
+    "trend": 0.16,
+    "rank_numeric": 72,
+    "tied": false
+  },
+  {
+    "rank": "73",
+    "name": "Columbus, OH",
+    "fatality_rate_per_100k": 1.58,
+    "deaths_2020_2024": 172,
+    "deaths_2015_2019": 138,
+    "trend": 0.25,
+    "rank_numeric": 73,
+    "tied": false
+  },
+  {
+    "rank": "T-74",
+    "name": "Dayton-Kettering-Beavercreek, OH",
+    "fatality_rate_per_100k": 1.57,
+    "deaths_2020_2024": 64,
+    "deaths_2015_2019": 54,
+    "trend": 0.23,
+    "rank_numeric": 74,
+    "tied": true
+  },
+  {
+    "rank": "T-74",
+    "name": "Rochester, NY",
+    "fatality_rate_per_100k": 1.57,
+    "deaths_2020_2024": 83,
+    "deaths_2015_2019": 61,
+    "trend": 0.43,
+    "rank_numeric": 74,
+    "tied": true
+  },
+  {
+    "rank": "76",
+    "name": "New York-Newark-Jersey City, NY-NJ",
+    "fatality_rate_per_100k": 1.52,
+    "deaths_2020_2024": 1509,
+    "deaths_2015_2019": 1546,
+    "trend": -0.08,
+    "rank_numeric": 76,
+    "tied": false
+  },
+  {
+    "rank": "T-77",
+    "name": "Milwaukee-Waukesha, WI",
+    "fatality_rate_per_100k": 1.5,
+    "deaths_2020_2024": 118,
+    "deaths_2015_2019": 109,
+    "trend": 0.12,
+    "rank_numeric": 77,
+    "tied": true
+  },
+  {
+    "rank": "T-77",
+    "name": "Oxnard-Thousand Oaks-Ventura, CA",
+    "fatality_rate_per_100k": 1.5,
+    "deaths_2020_2024": 63,
+    "deaths_2015_2019": 53,
+    "trend": 0.25,
+    "rank_numeric": 77,
+    "tied": true
+  },
+  {
+    "rank": "79",
+    "name": "Albany-Schenectady-Troy, NY",
+    "fatality_rate_per_100k": 1.46,
+    "deaths_2020_2024": 66,
+    "deaths_2015_2019": 61,
+    "trend": 0.07,
+    "rank_numeric": 79,
+    "tied": false
+  },
+  {
+    "rank": "80",
+    "name": "Grand Rapids-Wyoming-Kentwood, MI",
+    "fatality_rate_per_100k": 1.39,
+    "deaths_2020_2024": 81,
+    "deaths_2015_2019": 64,
+    "trend": 0.19,
+    "rank_numeric": 80,
+    "tied": false
+  },
+  {
+    "rank": "81",
+    "name": "Syracuse, NY",
+    "fatality_rate_per_100k": 1.37,
+    "deaths_2020_2024": 45,
+    "deaths_2015_2019": 54,
+    "trend": -0.29,
+    "rank_numeric": 81,
+    "tied": false
+  },
+  {
+    "rank": "82",
+    "name": "Kiryas Joel-Poughkeepsie-Newburgh, NY",
+    "fatality_rate_per_100k": 1.33,
+    "deaths_2020_2024": 47,
+    "deaths_2015_2019": 34,
+    "trend": 0.32,
+    "rank_numeric": 82,
+    "tied": false
+  },
+  {
+    "rank": "83",
+    "name": "Cincinnati, OH-KY-IN",
+    "fatality_rate_per_100k": 1.31,
+    "deaths_2020_2024": 149,
+    "deaths_2015_2019": 126,
+    "trend": 0.17,
+    "rank_numeric": 83,
+    "tied": false
+  },
+  {
+    "rank": "84",
+    "name": "Buffalo-Cheektowaga, NY",
+    "fatality_rate_per_100k": 1.26,
+    "deaths_2020_2024": 73,
+    "deaths_2015_2019": 58,
+    "trend": 0.23,
+    "rank_numeric": 84,
+    "tied": false
+  },
+  {
+    "rank": "T-85",
+    "name": "Akron, OH",
+    "fatality_rate_per_100k": 1.23,
+    "deaths_2020_2024": 43,
+    "deaths_2015_2019": 36,
+    "trend": 0.21,
+    "rank_numeric": 85,
+    "tied": true
+  },
+  {
+    "rank": "T-85",
+    "name": "Toledo, OH",
+    "fatality_rate_per_100k": 1.23,
+    "deaths_2020_2024": 37,
+    "deaths_2015_2019": 45,
+    "trend": -0.17,
+    "rank_numeric": 85,
+    "tied": true
+  },
+  {
+    "rank": "87",
+    "name": "Allentown-Bethlehem-Easton, PA-NJ",
+    "fatality_rate_per_100k": 1.21,
+    "deaths_2020_2024": 53,
+    "deaths_2015_2019": 42,
+    "trend": 0.21,
+    "rank_numeric": 87,
+    "tied": false
+  },
+  {
+    "rank": "88",
+    "name": "Bridgeport-Stamford-Danbury, CT",
+    "fatality_rate_per_100k": 1.19,
+    "deaths_2020_2024": 57,
+    "deaths_2015_2019": 71,
+    "trend": -0.31,
+    "rank_numeric": 88,
+    "tied": false
+  },
+  {
+    "rank": "89",
+    "name": "Cleveland, OH",
+    "fatality_rate_per_100k": 1.12,
+    "deaths_2020_2024": 122,
+    "deaths_2015_2019": 104,
+    "trend": 0.11,
+    "rank_numeric": 89,
+    "tied": false
+  },
+  {
+    "rank": "90",
+    "name": "Harrisburg-Carlisle, PA",
+    "fatality_rate_per_100k": 1.09,
+    "deaths_2020_2024": 33,
+    "deaths_2015_2019": 49,
+    "trend": -0.63,
+    "rank_numeric": 90,
+    "tied": false
+  },
+  {
+    "rank": "91",
+    "name": "Boise City, ID",
+    "fatality_rate_per_100k": 1.08,
+    "deaths_2020_2024": 44,
+    "deaths_2015_2019": 36,
+    "trend": 0.07,
+    "rank_numeric": 91,
+    "tied": false
+  },
+  {
+    "rank": "92",
+    "name": "Providence-Warwick, RI-MA",
+    "fatality_rate_per_100k": 1.06,
+    "deaths_2020_2024": 89,
+    "deaths_2015_2019": 92,
+    "trend": -0.08,
+    "rank_numeric": 92,
+    "tied": false
+  },
+  {
+    "rank": "93",
+    "name": "Omaha, NE-IA",
+    "fatality_rate_per_100k": 1.02,
+    "deaths_2020_2024": 50,
+    "deaths_2015_2019": 50,
+    "trend": -0.05,
+    "rank_numeric": 93,
+    "tied": false
+  },
+  {
+    "rank": "94",
+    "name": "Ogden, UT",
+    "fatality_rate_per_100k": 1.01,
+    "deaths_2020_2024": 33,
+    "deaths_2015_2019": 39,
+    "trend": -0.17,
+    "rank_numeric": 94,
+    "tied": false
+  },
+  {
+    "rank": "95",
+    "name": "Des Moines-West Des Moines, IA",
+    "fatality_rate_per_100k": 0.98,
+    "deaths_2020_2024": 36,
+    "deaths_2015_2019": 26,
+    "trend": 0.22,
+    "rank_numeric": 95,
+    "tied": false
+  },
+  {
+    "rank": "96",
+    "name": "Pittsburgh, PA",
+    "fatality_rate_per_100k": 0.93,
+    "deaths_2020_2024": 113,
+    "deaths_2015_2019": 115,
+    "trend": -0.06,
+    "rank_numeric": 96,
+    "tied": false
+  },
+  {
+    "rank": "97",
+    "name": "Boston-Cambridge-Newton, MA-NH",
+    "fatality_rate_per_100k": 0.92,
+    "deaths_2020_2024": 228,
+    "deaths_2015_2019": 234,
+    "trend": -0.05,
+    "rank_numeric": 97,
+    "tied": false
+  },
+  {
+    "rank": "98",
+    "name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+    "fatality_rate_per_100k": 0.89,
+    "deaths_2020_2024": 165,
+    "deaths_2015_2019": 144,
+    "trend": 0.08,
+    "rank_numeric": 98,
+    "tied": false
+  },
+  {
+    "rank": "99",
+    "name": "Worcester, MA",
+    "fatality_rate_per_100k": 0.88,
+    "deaths_2020_2024": 38,
+    "deaths_2015_2019": 55,
+    "trend": -0.29,
+    "rank_numeric": 99,
+    "tied": false
+  },
+  {
+    "rank": "100",
+    "name": "Madison, WI",
+    "fatality_rate_per_100k": 0.87,
+    "deaths_2020_2024": 30,
+    "deaths_2015_2019": 25,
+    "trend": 0.11,
+    "rank_numeric": 100,
+    "tied": false
+  },
+  {
+    "rank": "101",
+    "name": "Provo-Orem-Lehi, UT",
+    "fatality_rate_per_100k": 0.7,
+    "deaths_2020_2024": 25,
+    "deaths_2015_2019": 20,
+    "trend": 0.05,
+    "rank_numeric": 101,
+    "tied": false
+  }
+]

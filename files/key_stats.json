@@ -1,0 +1,89 @@
+{
+  "report_title": "Dangerous by Design 2026",
+  "publisher": "Smart Growth America / National Complete Streets Coalition",
+  "period_analyzed": "2020-2024 (compared to 2015-2019 baseline)",
+  "headline": {
+    "total_road_deaths_2024": 39254,
+    "pedestrian_deaths_2024": 7080,
+    "pedestrian_fatality_increase_2009_2024_pct": 72,
+    "pedestrian_fatality_decrease_2022_2024_pct": 3.9,
+    "pedestrian_share_of_2019_deaths": 6200,
+    "pct_fatalities_on_state_owned_roads_2024": 57,
+    "years_to_return_to_2009_levels_at_current_decline_rate": 2042,
+    "additional_deaths_projected_by_2042_at_current_rate": 96615
+  },
+  "measurement_note": "Report uses fatalities per 100,000 people (per capita) rather than the US government's standard of deaths per vehicle-mile-traveled (VMT), arguing VMT lets rates look 'better' simply because people drive more.",
+  "demographics": {
+    "note": "National pedestrian fatality rates per 100,000 people by group, 2020-2024. Not broken out by metro/state.",
+    "national_total_rate": 2.15,
+    "by_race_ethnicity": {
+      "American Indian and Alaska Native": 7.9,
+      "Black or African American": 3.67,
+      "Hispanic or Latino": 1.99,
+      "White, Non-Hispanic": 1.6,
+      "Asian American and Pacific Islander": 0.87
+    },
+    "by_age": {
+      "50-64": 2.89,
+      "75+": 2.8,
+      "20-49": 2.62,
+      "65-74": 2.56,
+      "0-19": 0.46
+    },
+    "income_note": "Report states fatality rates are highest in lowest-household-income areas but does not give a single numeric multiplier like it does for race.",
+    "race_disparity_note": "American Indian/Alaska Native rate is 3.7x the national average; Black Americans are killed at 1.7x the national average. Black and Native populations are 16% of US population but 22% of pedestrian deaths, 2020-2024."
+  },
+  "international_comparison": {
+    "us_traffic_fatality_rate_per_100k": 11.7,
+    "peer_benchmark_rate_per_100k": 8.73,
+    "peer_benchmark_note": "Rate the US would reach if it had matched the average reduction rate of 34 comparable peer nations, 2015-2024.",
+    "us_pedestrian_fatality_change_2014_2024_pct": 45,
+    "us_pedestrian_deaths_2014": 4884,
+    "us_pedestrian_deaths_2024": 7080,
+    "peer_examples": {
+      "Norway": {
+        "change_pct": -31,
+        "note": "Lowest roadway fatality rate in the world, 2015-2024"
+      },
+      "Japan": {
+        "change_pct": -30
+      },
+      "Germany": {
+        "change_pct": -20
+      },
+      "United Kingdom": {
+        "change_pct": -10
+      },
+      "Canada": {
+        "traffic_fatality_rate_per_100k": 5.03,
+        "note": "Less than half the US rate"
+      }
+    },
+    "lives_that_could_have_been_saved_if_us_matched_peers_over_10yr": 12000
+  },
+  "case_study": {
+    "location": "Jackson Avenue and Hollywood Street, Memphis, TN",
+    "context": "Real intersection with multiple pedestrian fatalities, used by the report as a before/after illustration",
+    "problems_identified": [
+      "wide travel lanes",
+      "frequent driveways",
+      "long crossing distances"
+    ],
+    "interventions_shown": [
+      "reallocated lane space",
+      "improved/shortened crosswalks",
+      "shorter driveways",
+      "expanded pedestrian space",
+      "street trees"
+    ]
+  },
+  "methodology": {
+    "metro_ranking_count": 101,
+    "state_ranking_count": 50,
+    "comparison_periods": [
+      "2015-2019 average",
+      "2020-2024 average"
+    ],
+    "trend_field_meaning": "Change in per-100k fatality rate from 2015-19 average to 2020-24 average; positive = got more dangerous"
+  }
+}

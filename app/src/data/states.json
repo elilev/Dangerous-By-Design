@@ -1,0 +1,502 @@
+[
+  {
+    "rank": "1",
+    "name": "New Mexico",
+    "fatality_rate_per_100k": 4.42,
+    "deaths_2020_2024": 469,
+    "deaths_2015_2019": 369,
+    "trend": 0.89,
+    "rank_numeric": 1,
+    "tied": false
+  },
+  {
+    "rank": "2",
+    "name": "Louisiana",
+    "fatality_rate_per_100k": 3.53,
+    "deaths_2020_2024": 813,
+    "deaths_2015_2019": 630,
+    "trend": 0.83,
+    "rank_numeric": 2,
+    "tied": false
+  },
+  {
+    "rank": "3",
+    "name": "Arizona",
+    "fatality_rate_per_100k": 3.49,
+    "deaths_2020_2024": 1288,
+    "deaths_2015_2019": 1000,
+    "trend": 0.65,
+    "rank_numeric": 3,
+    "tied": false
+  },
+  {
+    "rank": "4",
+    "name": "South Carolina",
+    "fatality_rate_per_100k": 3.37,
+    "deaths_2020_2024": 893,
+    "deaths_2015_2019": 750,
+    "trend": 0.38,
+    "rank_numeric": 4,
+    "tied": false
+  },
+  {
+    "rank": "5",
+    "name": "Florida",
+    "fatality_rate_per_100k": 3.32,
+    "deaths_2020_2024": 3726,
+    "deaths_2015_2019": 3356,
+    "trend": 0.11,
+    "rank_numeric": 5,
+    "tied": false
+  },
+  {
+    "rank": "6",
+    "name": "Mississippi",
+    "fatality_rate_per_100k": 3.18,
+    "deaths_2020_2024": 469,
+    "deaths_2015_2019": 346,
+    "trend": 0.86,
+    "rank_numeric": 6,
+    "tied": false
+  },
+  {
+    "rank": "7",
+    "name": "Nevada",
+    "fatality_rate_per_100k": 2.88,
+    "deaths_2020_2024": 458,
+    "deaths_2015_2019": 378,
+    "trend": 0.34,
+    "rank_numeric": 7,
+    "tied": false
+  },
+  {
+    "rank": "8",
+    "name": "California",
+    "fatality_rate_per_100k": 2.82,
+    "deaths_2020_2024": 5546,
+    "deaths_2015_2019": 4681,
+    "trend": 0.44,
+    "rank_numeric": 8,
+    "tied": false
+  },
+  {
+    "rank": "9",
+    "name": "Georgia",
+    "fatality_rate_per_100k": 2.79,
+    "deaths_2020_2024": 1527,
+    "deaths_2015_2019": 1177,
+    "trend": 0.53,
+    "rank_numeric": 9,
+    "tied": false
+  },
+  {
+    "rank": "10",
+    "name": "Delaware",
+    "fatality_rate_per_100k": 2.74,
+    "deaths_2020_2024": 140,
+    "deaths_2015_2019": 151,
+    "trend": -0.41,
+    "rank_numeric": 10,
+    "tied": false
+  },
+  {
+    "rank": "T-11",
+    "name": "Tennessee",
+    "fatality_rate_per_100k": 2.56,
+    "deaths_2020_2024": 903,
+    "deaths_2015_2019": 606,
+    "trend": 0.75,
+    "rank_numeric": 11,
+    "tied": true
+  },
+  {
+    "rank": "T-11",
+    "name": "Texas",
+    "fatality_rate_per_100k": 2.56,
+    "deaths_2020_2024": 3865,
+    "deaths_2015_2019": 3097,
+    "trend": 0.37,
+    "rank_numeric": 11,
+    "tied": true
+  },
+  {
+    "rank": "13",
+    "name": "Arkansas",
+    "fatality_rate_per_100k": 2.51,
+    "deaths_2020_2024": 382,
+    "deaths_2015_2019": 264,
+    "trend": 0.75,
+    "rank_numeric": 13,
+    "tied": false
+  },
+  {
+    "rank": "14",
+    "name": "Alabama",
+    "fatality_rate_per_100k": 2.34,
+    "deaths_2020_2024": 594,
+    "deaths_2015_2019": 563,
+    "trend": 0.03,
+    "rank_numeric": 14,
+    "tied": false
+  },
+  {
+    "rank": "15",
+    "name": "North Carolina",
+    "fatality_rate_per_100k": 2.3,
+    "deaths_2020_2024": 1234,
+    "deaths_2015_2019": 1025,
+    "trend": 0.3,
+    "rank_numeric": 15,
+    "tied": false
+  },
+  {
+    "rank": "16",
+    "name": "Maryland",
+    "fatality_rate_per_100k": 2.27,
+    "deaths_2020_2024": 703,
+    "deaths_2015_2019": 577,
+    "trend": 0.35,
+    "rank_numeric": 16,
+    "tied": false
+  },
+  {
+    "rank": "T-17",
+    "name": "Oklahoma",
+    "fatality_rate_per_100k": 2.24,
+    "deaths_2020_2024": 452,
+    "deaths_2015_2019": 382,
+    "trend": 0.3,
+    "rank_numeric": 17,
+    "tied": true
+  },
+  {
+    "rank": "T-17",
+    "name": "Oregon",
+    "fatality_rate_per_100k": 2.24,
+    "deaths_2020_2024": 477,
+    "deaths_2015_2019": 369,
+    "trend": 0.45,
+    "rank_numeric": 17,
+    "tied": true
+  },
+  {
+    "rank": "19",
+    "name": "Kentucky",
+    "fatality_rate_per_100k": 2.09,
+    "deaths_2020_2024": 475,
+    "deaths_2015_2019": 377,
+    "trend": 0.4,
+    "rank_numeric": 19,
+    "tied": false
+  },
+  {
+    "rank": "20",
+    "name": "Missouri",
+    "fatality_rate_per_100k": 2.06,
+    "deaths_2020_2024": 637,
+    "deaths_2015_2019": 500,
+    "trend": 0.42,
+    "rank_numeric": 20,
+    "tied": false
+  },
+  {
+    "rank": "21",
+    "name": "New Jersey",
+    "fatality_rate_per_100k": 2.02,
+    "deaths_2020_2024": 943,
+    "deaths_2015_2019": 863,
+    "trend": 0.08,
+    "rank_numeric": 21,
+    "tied": false
+  },
+  {
+    "rank": "22",
+    "name": "Alaska",
+    "fatality_rate_per_100k": 1.9,
+    "deaths_2020_2024": 70,
+    "deaths_2015_2019": 58,
+    "trend": 0.33,
+    "rank_numeric": 22,
+    "tied": false
+  },
+  {
+    "rank": "23",
+    "name": "Hawaii",
+    "fatality_rate_per_100k": 1.81,
+    "deaths_2020_2024": 131,
+    "deaths_2015_2019": 146,
+    "trend": -0.24,
+    "rank_numeric": 23,
+    "tied": false
+  },
+  {
+    "rank": "24",
+    "name": "Colorado",
+    "fatality_rate_per_100k": 1.79,
+    "deaths_2020_2024": 524,
+    "deaths_2015_2019": 392,
+    "trend": 0.39,
+    "rank_numeric": 24,
+    "tied": false
+  },
+  {
+    "rank": "25",
+    "name": "Washington",
+    "fatality_rate_per_100k": 1.73,
+    "deaths_2020_2024": 676,
+    "deaths_2015_2019": 472,
+    "trend": 0.46,
+    "rank_numeric": 25,
+    "tied": false
+  },
+  {
+    "rank": "26",
+    "name": "Michigan",
+    "fatality_rate_per_100k": 1.67,
+    "deaths_2020_2024": 841,
+    "deaths_2015_2019": 768,
+    "trend": 0.13,
+    "rank_numeric": 26,
+    "tied": false
+  },
+  {
+    "rank": "27",
+    "name": "Connecticut",
+    "fatality_rate_per_100k": 1.6,
+    "deaths_2020_2024": 290,
+    "deaths_2015_2019": 267,
+    "trend": 0.11,
+    "rank_numeric": 27,
+    "tied": false
+  },
+  {
+    "rank": "28",
+    "name": "Illinois",
+    "fatality_rate_per_100k": 1.55,
+    "deaths_2020_2024": 987,
+    "deaths_2015_2019": 783,
+    "trend": 0.32,
+    "rank_numeric": 28,
+    "tied": false
+  },
+  {
+    "rank": "T-29",
+    "name": "Indiana",
+    "fatality_rate_per_100k": 1.51,
+    "deaths_2020_2024": 518,
+    "deaths_2015_2019": 471,
+    "trend": 0.1,
+    "rank_numeric": 29,
+    "tied": true
+  },
+  {
+    "rank": "T-29",
+    "name": "Virginia",
+    "fatality_rate_per_100k": 1.51,
+    "deaths_2020_2024": 659,
+    "deaths_2015_2019": 551,
+    "trend": 0.21,
+    "rank_numeric": 29,
+    "tied": true
+  },
+  {
+    "rank": "31",
+    "name": "Montana",
+    "fatality_rate_per_100k": 1.49,
+    "deaths_2020_2024": 83,
+    "deaths_2015_2019": 70,
+    "trend": 0.16,
+    "rank_numeric": 31,
+    "tied": false
+  },
+  {
+    "rank": "32",
+    "name": "New York",
+    "fatality_rate_per_100k": 1.41,
+    "deaths_2020_2024": 1403,
+    "deaths_2015_2019": 1406,
+    "trend": -0.03,
+    "rank_numeric": 32,
+    "tied": false
+  },
+  {
+    "rank": "33",
+    "name": "South Dakota",
+    "fatality_rate_per_100k": 1.39,
+    "deaths_2020_2024": 63,
+    "deaths_2015_2019": 39,
+    "trend": 0.49,
+    "rank_numeric": 33,
+    "tied": false
+  },
+  {
+    "rank": "34",
+    "name": "Wyoming",
+    "fatality_rate_per_100k": 1.34,
+    "deaths_2020_2024": 39,
+    "deaths_2015_2019": 32,
+    "trend": 0.24,
+    "rank_numeric": 34,
+    "tied": false
+  },
+  {
+    "rank": "35",
+    "name": "Pennsylvania",
+    "fatality_rate_per_100k": 1.32,
+    "deaths_2020_2024": 856,
+    "deaths_2015_2019": 812,
+    "trend": 0.05,
+    "rank_numeric": 35,
+    "tied": false
+  },
+  {
+    "rank": "36",
+    "name": "Kansas",
+    "fatality_rate_per_100k": 1.31,
+    "deaths_2020_2024": 193,
+    "deaths_2015_2019": 142,
+    "trend": 0.33,
+    "rank_numeric": 36,
+    "tied": false
+  },
+  {
+    "rank": "37",
+    "name": "West Virginia",
+    "fatality_rate_per_100k": 1.29,
+    "deaths_2020_2024": 115,
+    "deaths_2015_2019": 122,
+    "trend": -0.05,
+    "rank_numeric": 37,
+    "tied": false
+  },
+  {
+    "rank": "38",
+    "name": "Ohio",
+    "fatality_rate_per_100k": 1.28,
+    "deaths_2020_2024": 754,
+    "deaths_2015_2019": 643,
+    "trend": 0.18,
+    "rank_numeric": 38,
+    "tied": false
+  },
+  {
+    "rank": "39",
+    "name": "Utah",
+    "fatality_rate_per_100k": 1.19,
+    "deaths_2020_2024": 201,
+    "deaths_2015_2019": 198,
+    "trend": -0.09,
+    "rank_numeric": 39,
+    "tied": false
+  },
+  {
+    "rank": "40",
+    "name": "Maine",
+    "fatality_rate_per_100k": 1.17,
+    "deaths_2020_2024": 81,
+    "deaths_2015_2019": 78,
+    "trend": 0.0,
+    "rank_numeric": 40,
+    "tied": false
+  },
+  {
+    "rank": "41",
+    "name": "Massachusetts",
+    "fatality_rate_per_100k": 1.03,
+    "deaths_2020_2024": 363,
+    "deaths_2015_2019": 383,
+    "trend": -0.09,
+    "rank_numeric": 41,
+    "tied": false
+  },
+  {
+    "rank": "42",
+    "name": "Vermont",
+    "fatality_rate_per_100k": 1.02,
+    "deaths_2020_2024": 33,
+    "deaths_2015_2019": 26,
+    "trend": 0.19,
+    "rank_numeric": 42,
+    "tied": false
+  },
+  {
+    "rank": "43",
+    "name": "Rhode Island",
+    "fatality_rate_per_100k": 1.0,
+    "deaths_2020_2024": 55,
+    "deaths_2015_2019": 58,
+    "trend": -0.1,
+    "rank_numeric": 43,
+    "tied": false
+  },
+  {
+    "rank": "T-44",
+    "name": "Idaho",
+    "fatality_rate_per_100k": 0.99,
+    "deaths_2020_2024": 96,
+    "deaths_2015_2019": 69,
+    "trend": 0.19,
+    "rank_numeric": 44,
+    "tied": true
+  },
+  {
+    "rank": "T-44",
+    "name": "North Dakota",
+    "fatality_rate_per_100k": 0.99,
+    "deaths_2020_2024": 39,
+    "deaths_2015_2019": 30,
+    "trend": 0.2,
+    "rank_numeric": 44,
+    "tied": true
+  },
+  {
+    "rank": "46",
+    "name": "Wisconsin",
+    "fatality_rate_per_100k": 0.97,
+    "deaths_2020_2024": 287,
+    "deaths_2015_2019": 279,
+    "trend": 0.01,
+    "rank_numeric": 46,
+    "tied": false
+  },
+  {
+    "rank": "47",
+    "name": "New Hampshire",
+    "fatality_rate_per_100k": 0.93,
+    "deaths_2020_2024": 65,
+    "deaths_2015_2019": 55,
+    "trend": 0.11,
+    "rank_numeric": 47,
+    "tied": false
+  },
+  {
+    "rank": "48",
+    "name": "Nebraska",
+    "fatality_rate_per_100k": 0.89,
+    "deaths_2020_2024": 88,
+    "deaths_2015_2019": 95,
+    "trend": -0.1,
+    "rank_numeric": 48,
+    "tied": false
+  },
+  {
+    "rank": "T-49",
+    "name": "Iowa",
+    "fatality_rate_per_100k": 0.83,
+    "deaths_2020_2024": 134,
+    "deaths_2015_2019": 113,
+    "trend": 0.11,
+    "rank_numeric": 49,
+    "tied": true
+  },
+  {
+    "rank": "T-49",
+    "name": "Minnesota",
+    "fatality_rate_per_100k": 0.83,
+    "deaths_2020_2024": 237,
+    "deaths_2015_2019": 224,
+    "trend": 0.02,
+    "rank_numeric": 49,
+    "tied": true
+  }
+]
